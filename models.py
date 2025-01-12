@@ -119,3 +119,5 @@ class TradingMetrics:
         self.profit_factor = self.total_profit / self.total_loss if self.total_loss > 0 else float('inf')
         self.average_win = self.total_profit / self.winning_trades if self.winning_trades > 0 else 0
         self.average_loss = self.total_loss / self.losing_trades if self.losing_trades > 0 else 0
+
+          #commit

@@ -966,3 +966,6 @@ class MarketDataManager:
         except Exception as e:
             logger.error(f"데이터프레임 변환 중 에러: {str(e)}")
             return pd.DataFrame()
+
+            #commit
+            

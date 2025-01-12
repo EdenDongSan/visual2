@@ -315,3 +315,5 @@ class OrderExecutor:
         except Exception as e:
             logger.error(f"지정가 청산 중 오류 발생: {e}")
             return False
+        
+          #commit

@@ -270,3 +270,5 @@ class DatabaseManager:
         if self.pool is not None:
             self.pool.close()
             await self.pool.wait_closed()
+
+              #commit

@@ -392,3 +392,5 @@ class TradingStrategy:
             logger.error(f"Trading strategy error: {e}")
         finally:
             logger.info("Trading strategy stopped")
+
+              #commit

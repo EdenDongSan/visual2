@@ -189,3 +189,5 @@ class BitgetWebsocket:
                 logger.error(f"Data conversion error: {e}, data: {candle_data}")
             except Exception as e:
                 logger.error(f"Unexpected error processing candle: {e}, data: {candle_data}")
+
+                  #commit

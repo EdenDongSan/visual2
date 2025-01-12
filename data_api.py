@@ -441,3 +441,5 @@ class BitgetAPI:
         except Exception as e:
             logger.error(f"Error fetching market data: {e}")
             return {}
+        
+          #commit
