@@ -1,0 +1,11 @@
+.env
+9816
+9816.pub
+logs
+__pycache__/data_api.cpython-313.pyc
+__pycache__/data_web.cpython-313.pyc
+__pycache__/market_data_manager.cpython-313.pyc
+__pycache__/order_execution.cpython-313.pyc
+__pycache__/trading_strategy_implementation.cpython-313.pyc
+logging_setup.cpython-313.pyc
+models.cpython-313.pyc
